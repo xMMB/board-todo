@@ -197,7 +197,7 @@ p {
 	margin: 0;
 }
 
-.target-btn.off {
+.target-btn.off:not(textarea) {
 	display: none;
 }
 
